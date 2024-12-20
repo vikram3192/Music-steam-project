@@ -1,0 +1,115 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.form-containers{
+    display: inline-block;
+    position: relative; 
+}
+
+.form{
+    margin-top: 150px;
+    margin-left:300px;
+}
+
+.form .inputs{
+    display: flex;
+    align-items: center;
+    background-color: rgba(44, 44, 44, 0.8);
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    width: 110%;
+    color: white;
+    margin: none;
+    height: 14px;
+    
+}
+ 
+
+.inputs:active{
+    border-color: lightgray;
+}
+
+
+.form .inputs::placeholder{
+    color:lightgray;
+}
+
+
+.form #label-user{
+    color:#fff;
+    font-size: 14px;
+}
+.form #label-email{
+    color:#fff;
+    font-size: 14px;
+}
+.form #label-pass{
+    color:#fff;
+    font-size: 14px;
+
+}
+.form #label-re-enter{
+    color:#fff;
+    font-size: 14px;
+}
+.button{
+    width: 120%;
+    height: 32px;
+    padding: 10px;
+    background-color: #1DB954;
+    color:#000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: #1ed760;
+}
+
+
+.logo{
+    width: 100px;
+    margin-left: 70px;
+}
+
+p{
+    color:lightgray;
+    font-size: small;
+    margin-left: 13px;
+}
+
+
+h3{
+    color: #fff;
+    margin-bottom: 15px;
+    margin-left: 85px;
+}
+
+a{
+    color: #1DB954;
+    text-decoration: none;
+
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.image{
+    display: inline-block;
+    position: absolute;
+    margin-bottom: 100px;
+    margin-left: 50px;
+   
+}
