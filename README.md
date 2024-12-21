@@ -105,17 +105,29 @@ Here’s an overview of the project’s structure:
 |   └── manifest
 
 |   └── robots.txt
-├── /src           
+
+├── /src    
+
 │   ├──index.js
+
 │   ├── App.js
+
 │   └── firebase.config
+
 |   └──  Login.js
+
 |   └──  login.css
+
 |   └──  Signup.js
+
 |   └──  signup.css
-├── package.lock          
+
+├── package.lock   
+
 └── package.json
+
 └── gitignore
+
 └── README.md
 
 
