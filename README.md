@@ -89,7 +89,7 @@ Steps
 Here’s an overview of the project’s structure:
 
 /public
-├── /         
+├──      
 │   ├── audio
 
 │   ├── img
@@ -106,7 +106,8 @@ Here’s an overview of the project’s structure:
 
 |   └── robots.txt
 
-├── /src    
+
+/src    
 
 │   ├──index.js
 
