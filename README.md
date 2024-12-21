@@ -158,3 +158,9 @@ Play, pause, and skip tracks
   This project is licensed under the MIT License 
 
 
+
+
+screenshots for my web pages
+
+![image alt](https://github.com/vikram3192/Music-steam-project/blob/606ed4d1022c50e5499537875ee0c06bdc06dfba/Screenshot%202024-12-21%20062359.png)
+
