@@ -170,3 +170,5 @@ screenshots for my web pages
 
 ![image alt](https://github.com/vikram3192/Music-steam-project/blob/4948c951822e1d3075669d37643c3fb7635353d7/Screenshot%202024-12-21%20062416.png)
 
+![image alt](https://github.com/vikram3192/Music-steam-project/blob/2a12437c8bec7962171ce7f7c1bf741df3fa1735/Screenshot%202024-12-21%20062446.png)
+
