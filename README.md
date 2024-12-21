@@ -66,18 +66,18 @@ Steps
 
 1. Clone the repository:
 
-git clone https://github.com/vikram3192/Music-steam-project.git
+         git clone https://github.com/vikram3192/Music-steam-project.git
 
 
 
 2. Install dependencies:
 
-npm install
+       npm install
 
 
 3. Run the React app:
 
-npm start
+        npm start
 
 
 
@@ -91,12 +91,19 @@ Here’s an overview of the project’s structure:
 /public
 ├── /         
 │   ├── audio
+
 │   ├── img
+
 │   └── index.html
+
 |   └── main.html 
+
 |   └── style.css
+
 |   └── app.js
+
 |   └── manifest
+
 |   └── robots.txt
 ├── /src           
 │   ├──index.js
