@@ -164,17 +164,17 @@ Music Slider:
    1. Open the React app for login or signup.
 
 
-  2. After authentication, navigate to the main page.
+   2. After authentication, navigate to the main page.
 
 
-  3. Use the slider to browse and play music tracks.
+   3. Use the slider to browse and play music tracks.
 
 
 ---
 
 7.License
     
-     This project is licensed under the MIT License 
+    This project is licensed under the MIT License 
 
 
 
