@@ -160,7 +160,13 @@ Play, pause, and skip tracks
 
 
 
+
+
+---
+
 screenshots for my web pages
 
 ![image alt](https://github.com/vikram3192/Music-steam-project/blob/606ed4d1022c50e5499537875ee0c06bdc06dfba/Screenshot%202024-12-21%20062359.png)
+
+![image alt](https://github.com/vikram3192/Music-steam-project/blob/4948c951822e1d3075669d37643c3fb7635353d7/Screenshot%202024-12-21%20062416.png)
 
