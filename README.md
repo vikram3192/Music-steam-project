@@ -39,14 +39,14 @@ Table of Contents
 
    Frontend:
 
-   React.js (for login and signup pages)  path:src/signup.js, login.js, login.css ,signup.css
+     - React.js (for login and signup pages)  path:src/signup.js, login.js, login.css ,signup.css
 
-      HTML, CSS, JavaScript (for the main page with slider functionality) path:public/main.html, style.css, app.js
+     - HTML, CSS, JavaScript (for the main page with slider functionality) path:public/main.html, style.css, app.js
 
 
     Backend:
 
-      Firebase authentication,firestore data base (path:src/firebase-config.js)
+     - Firebase authentication,firestore data base (path:src/firebase-config.js)
 
 
 
@@ -56,18 +56,18 @@ Table of Contents
 
   Prerequisites
 
-   Node.js and npm installed.
+   - Node.js and npm installed.
 
   Browser (latest version recommended).
 
-   use Any text editor (e.g., VS Code).
+   - use Any text editor (e.g., VS Code).
 
 
 Steps
 
 1. Clone the repository:
 
-         git clone https://github.com/vikram3192/Music-steam-project.git
+       git clone https://github.com/vikram3192/Music-steam-project.git
 
 
 
@@ -78,7 +78,7 @@ Steps
 
 3. Run the React app:
 
-        npm start
+       npm start
 
 
 
@@ -138,22 +138,21 @@ Here’s an overview of the project’s structure:
 5. Features
 
 User Authentication:
-
-   Login and signup pages built with React
+   - Login and signup pages built with React
 
 Responsive Design:
    
-   HTML, CSS, and JavaScript ensure the main page adapts to all screen sizes
+  - HTML, CSS, and JavaScript ensure the main page adapts to all screen sizes
 
 
 Music Slider:
 
-   Interactive slider for browsing music tracks or albums
+   - Interactive slider for browsing music tracks or albums
 
 
  Music Player:
  
-   Play, pause, and skip tracks
+  -  Play, pause, and skip tracks
 
 
 
