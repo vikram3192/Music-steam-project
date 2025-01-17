@@ -38,9 +38,9 @@ Table of Contents
 
    Frontend:
 
-     React.js (for login and signup pages)  path:src/signup.js, login.js, login.css ,signup.css
+   React.js (for login and signup pages)  path:src/signup.js, login.js, login.css ,signup.css
 
-     HTML, CSS, JavaScript (for the main page with slider functionality) path:public/main.html, style.css, app.js
+   HTML, CSS, JavaScript (for the main page with slider functionality) path:public/main.html, style.css, app.js
 
 
     Backend:
@@ -57,9 +57,9 @@ Table of Contents
 
     Node.js and npm installed.
 
-     Browser (latest version recommended).
+   Browser (latest version recommended).
 
-     use Any text editor (e.g., VS Code).
+    use Any text editor (e.g., VS Code).
 
 
 Steps
@@ -142,7 +142,7 @@ User Authentication:
 
 Responsive Design:
    
-    HTML, CSS, and JavaScript ensure the main page adapts to all screen sizes
+  HTML, CSS, and JavaScript ensure the main page adapts to all screen sizes
 
 
 Music Slider:
@@ -174,7 +174,7 @@ Music Slider:
 
 7.License
     
-    This project is licensed under the MIT License 
+   This project is licensed under the MIT License 
 
 
 
