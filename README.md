@@ -1,4 +1,4 @@
-# Music-steam-project
+# Music-stream-project
 
 
 Music Stream with Slider Support
@@ -13,10 +13,9 @@ Table of Contents
 1. Overview
 2. Technologies Used
 3. Setup Instructions
-4. File Structure
-5. Features
-6. usage
-7. License
+4. Features
+5. usage
+6. License
 
 
 ---
@@ -85,57 +84,7 @@ Steps
 
 ---
 
-4. File Structure
-
-Here’s an overview of the project’s structure:
-
-/public
-├──      
-│   ├── audio
-
-│   ├── img
-
-│   └── index.html
-
-|   └── main.html 
-
-|   └── style.css
-
-|   └── app.js
-
-|   └── manifest
-
-|   └── robots.txt
-
-
-/src    
-
-│   ├──index.js
-
-│   ├── App.js
-
-│   └── firebase.config
-
-|   └──  Login.js
-
-|   └──  login.css
-
-|   └──  Signup.js
-
-|   └──  signup.css
-
-├── package.lock   
-
-└── package.json
-
-└── gitignore
-
-└── README.md
-
-
----
-
-5. Features
+4. Features
 
 User Authentication:
    - Login and signup pages built with React
@@ -159,7 +108,7 @@ Music Slider:
 
 ---
 
-6. Usage
+5. Usage
 
    1. Open the React app for login or signup.
 
@@ -172,7 +121,7 @@ Music Slider:
 
 ---
 
-7.License
+6. License
     
    This project is licensed under the MIT License 
 
