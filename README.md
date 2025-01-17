@@ -26,7 +26,8 @@ Table of Contents
   Music Stream with Slider Support is a web application that combines a modern login/signup page built with React and a sleek main page crafted using HTML, CSS, and JavaScript.
  The main page features a music streaming interface with slider support, offering smooth navigation and interactivity.
 
- Purpose: Provide users with a platform to explore and play music, with a simple authentication system.
+ Purpose: 
+   Provide users with a platform to explore and play music, with a simple authentication system.
 
 
 
@@ -40,12 +41,12 @@ Table of Contents
 
    React.js (for login and signup pages)  path:src/signup.js, login.js, login.css ,signup.css
 
-   HTML, CSS, JavaScript (for the main page with slider functionality) path:public/main.html, style.css, app.js
+      HTML, CSS, JavaScript (for the main page with slider functionality) path:public/main.html, style.css, app.js
 
 
     Backend:
 
-     Firebase authentication,firestore data base (path:src/firebase-config.js)
+      Firebase authentication,firestore data base (path:src/firebase-config.js)
 
 
 
@@ -53,13 +54,13 @@ Table of Contents
 
 3. Setup Instructions
 
-   Prerequisites
+  Prerequisites
 
-    Node.js and npm installed.
+   Node.js and npm installed.
 
-   Browser (latest version recommended).
+  Browser (latest version recommended).
 
-    use Any text editor (e.g., VS Code).
+   use Any text editor (e.g., VS Code).
 
 
 Steps
@@ -138,20 +139,20 @@ Here’s an overview of the project’s structure:
 
 User Authentication:
 
-  Login and signup pages built with React
+   Login and signup pages built with React
 
 Responsive Design:
    
-  HTML, CSS, and JavaScript ensure the main page adapts to all screen sizes
+   HTML, CSS, and JavaScript ensure the main page adapts to all screen sizes
 
 
 Music Slider:
 
-  Interactive slider for browsing music tracks or albums
+   Interactive slider for browsing music tracks or albums
 
 
  Music Player:
-
+ 
    Play, pause, and skip tracks
 
 
